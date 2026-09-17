@@ -13,6 +13,7 @@ Logistics & Inventory Operations: To ensure real-time inventory tracking, order 
 End Customers / UX Team: To provide feedback on shopping usability, navigation, and checkout preference.
 
 **Elicitation Techniques:**
+
 Interviews: One-on-one sessions with IT, Finance, and Operations leads to gather detailed technical and functional system constraints.
 Joint Application Development (JAD) Workshops: Cross-functional interactive workshops with key department heads to align business goals and settle conflicts on feature priorities.
 Document Analysis: Reviewing current CRM, inventory database, and sales process documents to understand existing data flows.
