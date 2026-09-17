@@ -1,8 +1,8 @@
-#case study...
+# case study:
 Imagine yourself as a Business Analyst working with a retail company that plans to launch a new e-commerce platform. The platform must allow customers to browse products, make purchases, receive personalized recommendations, and choose from multiple payment options. It also needs to integrate with the company’s current inventory and CRM systems.
 
 Who are the key stakeholders you would involve in the requirements gathering for this e-commerce platform?
- ##Answer
+ ## Answer
   **Key Stakeholders:**
   
 Suggest what requirements elicitation techniques you would use to get requirements from these stakeholders. 
